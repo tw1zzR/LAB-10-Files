@@ -1,0 +1,6 @@
+Text from file: You need to take your enemy’s side if you are going to see things the way they do.
+
+All words in file: ['you', 'need', 'to', 'take', 'your', 'enemy’s', 'side', 'if', 'you', 'are', 'going', 'to', 'see', 'things', 'the', 'way', 'they', 'do.']
+Words count: 18
+Unique words: 16
+Sentence count: 1
